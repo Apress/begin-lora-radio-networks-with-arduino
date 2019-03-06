@@ -1,0 +1,1 @@
+https://github.com/goodcheney/Arduino-Profile-Examples/blob/patch-4/libraries/Dragino/examples/LoRa/LoRaWAN/LoRa_GPS_Shield_TTN
